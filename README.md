@@ -11,10 +11,6 @@ Os usuários devem ser capazes de:
   - Visualizar o layout ideal para a página, dependendo do tamanho da tela do dispositivo.
   - Ver os estados de *hover* para todos os elementos interativos na página.
 
-### Screenshot
-
-*Utilizando a imagem de preview fornecida no desafio.*
-
 ### Links
 
   - URL do Site: (https://vinicius-segades.github.io/projeto-huddle-base/)
