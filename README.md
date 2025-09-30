@@ -17,8 +17,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-  - URL da Solução: [Adicione a URL da sua solução aqui](https://www.google.com/search?q=https://%23)
-  - URL do Site: [Adicione a URL do seu site aqui](https://www.google.com/search?q=https://%23)
+  - URL do Site: (https://vinicius-segades.github.io/projeto-huddle-base/)
 
 ## Meu Processo
 
