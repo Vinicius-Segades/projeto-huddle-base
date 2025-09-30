@@ -1,0 +1,42 @@
+ @media (max-width: 768px) {
+             body {
+                background-image: url('../images/bg-mobile.svg') ;
+                position: absolute;
+                
+                grid-template-columns: 1fr;
+                grid-template-areas: 
+                    "header"
+                    "main"
+                    "footer";
+            }
+            
+            .header {
+                padding-top: 30px;
+                padding-bottom: 60px;
+            }
+
+            .header .logo {
+                width: 150px;
+            }
+
+            .main .container {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .main .info-container h1 {
+                font-size: 2.4rem;
+            }
+
+            .main .info-container p {
+                font-size: 1.6rem;
+            }
+
+            .footer {
+                padding-top: 60px;
+            }
+
+            .footer .social-links {
+                justify-content: center;
+            }
+        }
